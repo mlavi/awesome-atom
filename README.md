@@ -44,6 +44,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Test Navigator](#test-navigator)
   - [Themer](#themer)
   - [Toggle Quotes](#toggle-quotes)
+- [Atom Successors](#atom-successors)
 
 ## Syntax
 
@@ -242,3 +243,12 @@ JavaScript, and much more in Atom.
 
 #### [Tree View Search Bar](https://atom.io/packages/tree-view-search-bar)
 > Quick look in tree view.
+
+## Atom Successors
+
+Atom was [sunset](https://github.blog/news-insights/product-news/sunsetting-atom/) by in late 2022, a few years after the [acquisition of GitHub by Microsoft](https://en.wikipedia.org/wiki/Atom_(text_editor)). Microsoft encouraged developers to migrate to Visual Studio Code, but Atom's story continues:
+
+- [Pulsar](https://pulsar-edit.dev/) is a community fork that modernizes the Atom project with a mostly compatible package ecosystem.
+
+- Zed, an open-source editor, was created by [some of the Atom team](https://zed.dev/team) in 2024.
+
